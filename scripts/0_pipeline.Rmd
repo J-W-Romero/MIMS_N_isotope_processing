@@ -1,0 +1,24 @@
+---
+title: "workflow"
+author: "Indra Boving"
+date: "2023-05-04"
+output: html_document
+---
+
+#Setup
+
+```{r}
+library(janitor)
+library(here)
+library(tidyverse)
+library(lubridate)
+
+datver <- "20230504" #the date on your csv file
+```
+
+#Data wrangling
+
+```{r}
+
+```
+
